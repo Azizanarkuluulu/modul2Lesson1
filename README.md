@@ -1,6 +1,5 @@
 
-Module 2: Challenge1-solana
-Metacrafters Module 2: Challenge 1 - Solana using JavaScript
+Metacrafters Module 2: Lesson1 - Airdrop SOL using JavaScript
 
 Install node_modules
 
